@@ -1,2 +1,2 @@
-# Farman012.github.io
-Customer Manager app by Farman, Aditya, Akash Dixit, Harman
+# harman20.github.io
+Customer Manager app by Harman,Farman,Aditya
